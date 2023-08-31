@@ -1,2 +1,2 @@
-# Tokenomics
-Token Economics
+# Tokenism
+Tokenism
